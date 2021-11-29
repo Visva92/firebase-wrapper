@@ -41,7 +41,7 @@
     "@firebase/app": "0.6.24",
     "@firebase/auth": "0.16.6",
     "@firebase/firestore": "2.3.4",
-    "@firebase/functions": "0.6.10",
+    "@firebase/functions": "0.7.5",
     "@firebase/storage": "0.5.3",
     "firebase": "8.6.5",
     "firebaseui": "4.8.0",
