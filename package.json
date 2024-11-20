@@ -39,11 +39,11 @@
   },
   "dependencies": {
     "@firebase/app": "0.6.24",
-    "@firebase/auth": "0.16.6",
+    "@firebase/auth": "1.6.2",
     "@firebase/firestore": "2.3.4",
     "@firebase/functions": "0.6.10",
     "@firebase/storage": "0.5.3",
-    "firebase": "8.6.5",
+    "firebase": "10.9.0",
     "firebaseui": "4.8.0",
     "react-firebaseui": "5.0.2"
   },
